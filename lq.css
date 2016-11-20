@@ -1629,7 +1629,7 @@
 html {
     font-family: sans-serif;
     -ms-text-size-adjust: 100%;
-    -webkit-text-size-adjust: 100%
+    -webkit-text-size-adjust: 100%;
 }
 body {
     margin: 0
@@ -1813,7 +1813,6 @@ html {
 *:before,
 *:after {
     /* box-sizing:inherit; */
-    
     it;
     */
 }
@@ -5375,11 +5374,11 @@ html {
     line-height: 1.5;
     font-family: "Roboto", sans-serif;
     font-weight: normal;
-    color: rgba(0, 0, 0, 0.87)
+    color: rgba(0, 0, 0, 0.87);
 }
 @media only screen and (min-width: 0) {
     html {
-        font-size: 14px;
+        /* font-size: 14px; */
     }
 }
 @media only screen and (min-width: 992px) {
@@ -5417,7 +5416,6 @@ h1 {
 h2 {
     font-size: 3.56rem;
     line-height: 110%;
-    margin: 1.78rem 0 1.424rem 0
 }
 h3 {
     font-size: 2.92rem;
